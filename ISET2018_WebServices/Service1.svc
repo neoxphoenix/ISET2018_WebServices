@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ISET2018_WebServices.ServiceHEL" CodeBehind="Service1.svc.cs" %>
